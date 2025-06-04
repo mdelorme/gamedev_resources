@@ -4,7 +4,7 @@ Various resources/tutorials/assets for gamedev.
 ## Graphics
 ### Blender:
 - Blender 3: Curves and Twisted cables Tutorial : https://www.youtube.com/watch?v=k9itENb89Dc
-- How to make blood splatters : https://www.youtube.com/watch?v=24ceD9mUSlE
+- Blender: Bloody Tiles : https://www.youtube.com/watch?v=vv1V7ic9NqA
 
 ## Sound
 ### FMOD:
