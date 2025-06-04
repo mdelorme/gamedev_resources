@@ -4,7 +4,10 @@ Various resources/tutorials/assets for gamedev.
 ## Graphics
 ### Blender:
 - Blender 3: Curves and Twisted cables Tutorial : https://www.youtube.com/watch?v=k9itENb89Dc
-- Blender: Bloody Tiles : https://www.youtube.com/watch?v=vv1V7ic9NqA
+- Blender: Bloody Tiles: https://www.youtube.com/watch?v=vv1V7ic9NqA
+
+### Krita:
+- Drawing Blood Tutorial: https://www.youtube.com/watch?v=5gY-HCSJD9s
 
 ## Sound
 ### FMOD:
