@@ -10,6 +10,9 @@ Various resources/tutorials/assets for gamedev.
 ### Krita:
 - Drawing Blood Tutorial: https://www.youtube.com/watch?v=5gY-HCSJD9s
 
+### Resources
+- Ambient CG - Royalty-Free textures and models (and no login required !) : https://ambientcg.com/
+
 ## Sound
 ### FMOD:
 - Getting started in FMOD tutorial series : https://www.youtube.com/watch?v=_l_xLueNyOo&list=PLp4vT3ssm5SUgEJpDeA0Nb-1BKGxnDu2m
